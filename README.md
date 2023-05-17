@@ -1,4 +1,4 @@
-**!!! THIS INTRODUCTION IS NOT READY YET !!!** just leaving it in the meantime...
+**!!! THIS INTRODUCTION IS NOT READY YET !!!** just leaving it here in the meantime...
 
 Hello there! I'm well aware that when someone ends on someone else's GitHub profile has always difficulties in exploring the repositories. I leave here an index to easily browse and get an idea about each of them. Cheers!
 
@@ -6,7 +6,7 @@ Hello there! I'm well aware that when someone ends on someone else's GitHub prof
 ### Deep Learning - Computer Vision
 **[FL-project](https://github.com/Mattizza/FL-project)** 🚧 WORK IN PROGRESS 🚧
 
-University project from the MLDL23 course. The goal is to get familiar with the Federated Learning paradigm trying to perform Semantic Segmentation in the devices of several clients. Working on it with my two colleagues Matteo Donadio and Jacopo Lungo Vaschetti.
+University project from the MLDL23 course. The goal is to get familiar with the Federated Learning paradigm trying to perform Semantic Segmentation in the devices of several clients. Actually working on it with my two colleagues Matteo Donadio and Jacopo Lungo Vaschetti.
 
 ---
 
