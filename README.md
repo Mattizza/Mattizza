@@ -4,20 +4,20 @@ Hello there! I'm well aware that when someone ends on someone else's GitHub prof
 
 ## Index
 ### Deep Learning - Computer Vision
-**[FL-project](https://github.com/Mattizza/FL-project)** 🚧 WORK IN PROGRESS 🚧
+**[FL-project](https://github.com/Mattizza/FL-project)** 🚧 WORK IN PROGRESS - ESTIMATED DEADLINE: 09/23🚧
 
 University project from the MLDL23 course. The goal is to get familiar with the Federated Learning paradigm trying to perform Semantic Segmentation in the devices of several clients. Actually working on it with my two colleagues Matteo Donadio and Jacopo Lungo Vaschetti.
 
 ---
 
 ### Measures
-**[DART-measure](https://github.com/Mattizza/DART-measure)** 🚧 WORK IN PROGRESS 🚧
+**[DART-measure](https://github.com/Mattizza/DART-measure)** 🚧 WORK IN PROGRESS - ESTIMATED DEADLINE: 07/23🚧
 
 Single numerical measure to evaluate models with respect to their accuracy and variance. Actually, it has been defined only to be used in K-Fold Cross Validation. Further improvements to be considered.
 
 ---
 
 ### Generative
-**[TGI](https://github.com/Mattizza/TGI)** 🚧 WORK IN PROGRESS 🚧
+**[TGI](https://github.com/Mattizza/TGI)** 🚧 WORK IN PROGRESS 06/23 🚧
 
 A way to generate points when interpolation is not possible. The goal is just to increase the granularity between two extreme points. Really good performance when the function is non-linear!
