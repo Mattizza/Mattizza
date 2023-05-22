@@ -18,13 +18,13 @@ Single numerical measure to evaluate models with respect to their accuracy and v
 ---
 
 ### Generative
-**[TGI](https://github.com/Mattizza/TGI)** 🚧 WORK IN PROGRESS 06/23 🚧
+**[TGI](https://github.com/Mattizza/TGI)** 🚧 WORK IN PROGRESS - ESTIMATED DEADLINE: 06/23 🚧
 
 A way to generate points when interpolation is not possible. The goal is just to increase the granularity between two extreme points. Really good performance when the function is non-linear!
 
 ---
 
 ### Model Selection/Validation
-**[PrunedCV](https://github.com/Mattizza/PrunedCV)** 🚧 WORK IN PROGRESS 06/23 🚧
+**[PrunedCV](https://github.com/Mattizza/PrunedCV)** 🚧 WORK IN PROGRESS - ESTIMATED DEADLINE: 06/23 🚧
 
 A different way of performing Cross Validation. Why training on every fold if it is already clear from the firsts that the model sucks?
